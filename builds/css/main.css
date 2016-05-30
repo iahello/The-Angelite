@@ -324,16 +324,3 @@ footer {
   /* line 338, C:/Users/Iah/Desktop/Angelite/source/sass/main.scss */
   .social-subscribe img:hover {
     transform: scale(1.4); }
-
-/* line 345, C:/Users/Iah/Desktop/Angelite/source/sass/main.scss */
-body::-webkit-scrollbar {
-  width: 1em; }
-
-/* line 348, C:/Users/Iah/Desktop/Angelite/source/sass/main.scss */
-body::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); }
-
-/* line 351, C:/Users/Iah/Desktop/Angelite/source/sass/main.scss */
-body::-webkit-scrollbar-thumb {
-  background-color: darkgrey;
-  outline: 1px solid slategrey; }
